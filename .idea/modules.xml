@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section07/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Section07/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section07/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Section07/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10/IntroToTextViewsAndButtons/FirstLook/FirstLook.iml" filepath="$PROJECT_DIR$/Section10/IntroToTextViewsAndButtons/FirstLook/FirstLook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section07/HashMaps/HashMaps.iml" filepath="$PROJECT_DIR$/Section07/HashMaps/HashMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section05/IntroToInheritance/IntroToInheritance.iml" filepath="$PROJECT_DIR$/Section05/IntroToInheritance/IntroToInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section05/MMethods/MMethods.iml" filepath="$PROJECT_DIR$/Section05/MMethods/MMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section05/Section05.iml" filepath="$PROJECT_DIR$/Section05/Section05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Udemy-Java-Kotlin-Course.iml" filepath="$PROJECT_DIR$/Udemy-Java-Kotlin-Course.iml" />

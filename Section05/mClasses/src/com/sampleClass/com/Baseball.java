@@ -1,4 +1,2 @@
-package com.sampleClass.com;
-
-public class Baseball {
+package com.sampleClass.com;public class Baseball {
 }
